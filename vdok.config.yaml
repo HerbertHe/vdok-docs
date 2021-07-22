@@ -1,1 +1,3 @@
 # vdok 配置文件
+dev: true
+lang: "zh-CN"

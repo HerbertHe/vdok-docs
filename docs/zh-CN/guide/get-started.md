@@ -1,3 +1,7 @@
+---
+title: 快速上手
+---
+
 # 快速上手
 
 **Vdok** 是一个致力于无代码向的文档生成工具.
@@ -8,9 +12,9 @@
 
 Vdok 提供了诸如国际化适配、路由自动生成等特性, 可以使用户更少有机会接触到底层开发逻辑, 使没有前端开发经验的用户可以快速生成可用的文档网站。
 
-- 关于 Vdok 背后的故事, 请参阅 [Vdok 的想法](/zh-CN/posts/story)
+- 关于 Vdok 背后的故事, 请参阅 [Vdok的故事](/zh-CN/posts/story)
 
-- 关于 Vdok 使用的技术栈, 请参阅 [Vdok 技术栈](/zh-CN/posts/technology-stack)
+- 关于 Vdok 使用的技术栈, 请参阅 [Vdok的技术栈](/zh-CN/posts/technology-stack)
 
 ## 基本使用
 

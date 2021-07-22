@@ -1,12 +1,1 @@
-{
-  "name": "vdok",
-  "scripts": {
-    "dev": "vdok dev",
-    "build": "vdok build"
-  },
-  "dependencies": {
-    "@herberthe/vdok-client": "^0.0.1",
-    "@herberthe/vdok-types": "^0.0.1",
-    "@herberthe/vdok-cli": "^0.0.1"
-  }
-}
+{"name":"vdok","vdok":true,"agent":"yarn","scripts":{"dev":"vdok dev","build":"vdok build","debug":"cross-env VDOK_DEBUG=DEBUG vdok dev","debug:fast":"cross-env VDOK_DEBUG=DEBUG VDOK_DEBUG_FAST=FAST vdok dev"},"dependencies":{"@herberthe/vdok-cli":"^0.0.5","@herberthe/vdok-client":"^0.0.6","@herberthe/vdok-types":"^0.0.13"},"devDependencies":{"cross-env":"^7.0.3"}}
